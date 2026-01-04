@@ -1,0 +1,181 @@
+[
+  {
+    "categorie": "Histoire",
+    "langues": {
+      "fr": {
+        "question": "Que signifie Burkina Faso ?",
+        "reponse": "Burkina Faso signifie 'pays des hommes intègres'. Burkina = hommes intègres, Faso = pays."
+      },
+      "mo": {
+        "question": "Burkina Faso yɩlɩg yaa ?",
+        "reponse": "Burkina Faso yɩlɩg yaa 'n taaba yamb ye'. Burkina = taaba yamb, Faso = n tagma."
+      },
+      "di": {
+        "question": "Burkina Faso kɔrɔ ye mun ye ?",
+        "reponse": "Burkina Faso kɔrɔ ye 'denw kɛnyɛ' ye. Burkina = denw kɛnyɛ, Faso = ma."
+      }
+    }
+  },
+
+  {
+    "categorie": "Histoire",
+    "langues": {
+      "fr": {
+        "question": "Qui a renommé la Haute-Volta en Burkina Faso ?",
+        "reponse": "Thomas Sankara a renommé la Haute-Volta en Burkina Faso le 4 août 1984."
+      },
+      "mo": {
+        "question": "Wend na n da Burkina Faso zoodo ?",
+        "reponse": "Thomas Sankara n da yɩlɩg la 4 gʋlsem 1984."
+      },
+      "di": {
+        "question": "Mun kɛra Burkina Faso tɔgɔ la ?",
+        "reponse": "Thomas Sankara kɛra tɔgɔ la 4 uti 1984."
+      }
+    }
+  },
+
+  {
+    "categorie": "Agriculture",
+    "langues": {
+      "fr": {
+        "question": "Quelle est la période de semis du mil ?",
+        "reponse": "Le mil se sème de juin à juillet avec les premières pluies."
+      },
+      "mo": {
+        "question": "Mil wʋsg n bɩ yɩ ne ?",
+        "reponse": "Mil bɩ wʋs ne zu-bɩɩs fʋɭʋ wã, sã n kẽ soabẽ."
+      },
+      "di": {
+        "question": "Mil bɛ fɔ san jumen na ?",
+        "reponse": "Mil bɛ fɔ zuye ni zuluye, sanji sɔrɔlen bɛla."
+      }
+    }
+  },
+
+  {
+    "categorie": "Agriculture",
+    "langues": {
+      "fr": {
+        "question": "Comment lutter contre les oiseaux qui mangent le mil ?",
+        "reponse": "Utiliser des épouvantails, des filets ou des répulsifs naturels comme les feuilles de neem."
+      },
+      "mo": {
+        "question": "Yaa woto n rat n yiɣ zĩis n wẽ mil ?",
+        "reponse": "Tʋm saglgã, taab ne tɩɩm soaba pʋgẽ."
+      },
+      "di": {
+        "question": "Mun kɛ ka nɛnɛw ma mil di ?",
+        "reponse": "Ka baara kɛ sigiyɔrɔ, filɛ wa i nɛgɛ so ye."
+      }
+    }
+  },
+
+  {
+    "categorie": "Santé",
+    "langues": {
+      "fr": {
+        "question": "Quels sont les symptômes du paludisme ?",
+        "reponse": "Fièvre, maux de tête, frissons, fatigue intense, parfois vomissements."
+      },
+      "mo": {
+        "question": "Paludisme pils tɩɩsa ?",
+        "reponse": "Pu-biig, zuk tɩɩse, gĩisg, vɩɩm yell, sãnda nao tʋmdẽ."
+      },
+      "di": {
+        "question": "Paludisme ka juguw ye mun ye ?",
+        "reponse": "Kunan, kunkolodimi, nɛnɛ, fami, wa a bɛ sɔgɔ."
+      }
+    }
+  },
+
+  {
+    "categorie": "Santé",
+    "langues": {
+      "fr": {
+        "question": "Comment prévenir le paludisme ?",
+        "reponse": "Dormir sous moustiquaire imprégnée, éliminer les eaux stagnantes, porter des vêtements longs le soir."
+      },
+      "mo": {
+        "question": "Woto n rat n yɩls paludisme ?",
+        "reponse": "Zĩng n sʋʋg mɩsã pʋgẽ, yãs kom n maan, wẽ kugẽ soabã."
+      },
+      "di": {
+        "question": "Mun kɛ ka paludisme ma sɔrɔ ?",
+        "reponse": "Ka sin mɔgɔsira la, ka ji tɛmɛ, ka fini surunya kunafoni."
+      }
+    }
+  },
+
+  {
+    "categorie": "Eau & Hygiène",
+    "langues": {
+      "fr": {
+        "question": "Pourquoi faut-il bouillir l'eau avant de la boire ?",
+        "reponse": "Pour tuer les microbes et bactéries qui causent des maladies comme la diarrhée."
+      },
+      "mo": {
+        "question": "Yel-kãnga woto n rat n gʋls kom ne wã ?",
+        "reponse": "N ku yõy pʋgẽ biis n maanda kɩndɩs wã sãn na yɩlẽ sẽn tʋmdẽ."
+      },
+      "di": {
+        "question": "Mun na fosɔn ka ji gɛlɛ ka a min ?",
+        "reponse": "Ka banakisɛnw falen min bɛ bana kɛ, i n'a fɔ farikoloɲɛnamu."
+      }
+    }
+  },
+
+  {
+    "categorie": "Civisme",
+    "langues": {
+      "fr": {
+        "question": "Quels sont les droits du citoyen burkinabè ?",
+        "reponse": "Droit à l'éducation, à la santé, à voter, à la liberté d'expression, à la protection."
+      },
+      "mo": {
+        "question": "Burkinabè pʋga zĩis n ye ?",
+        "reponse": "Zĩis ne bʋʋlg, kɩndɩg, vot, yel-solemde, tʋʋm-teedo."
+      },
+      "di": {
+        "question": "Burkinabè denw ka danbew ye mun ye ?",
+        "reponse": "Kalan danbe, kɛnɛya danbe, voti danbe, hakilina danbe, ka defɛn."
+      }
+    }
+  },
+
+  {
+    "categorie": "Civisme",
+    "langues": {
+      "fr": {
+        "question": "Quels sont les devoirs du citoyen ?",
+        "reponse": "Payer les impôts, respecter les lois, participer aux élections, défendre le pays."
+      },
+      "mo": {
+        "question": "Burkinabè pʋga tʋʋma n ye ?",
+        "reponse": "Sã n tʋ tɩɩmã, gom-biis gese, votẽ pʋgẽ tʋʋme, n tagmã yiɣe."
+      },
+      "di": {
+        "question": "Burkinabè denw ka baaraw ye mun ye ?",
+        "reponse": "Sɔrɔsɔrɔ di, sigiyɔrɔw gɛlɛn, voti la, ma defɛn."
+      }
+    }
+  },
+
+  {
+    "categorie": "Numérique",
+    "langues": {
+      "fr": {
+        "question": "Comment créer un compte mobile money ?",
+        "reponse": "Aller chez son opérateur téléphonique avec une pièce d'identité, remplir le formulaire."
+      },
+      "mo": {
+        "question": "Yaa woto n maan mobile money kont ?",
+        "reponse": "Kẽ telesugrẽ soabẽ pʋgẽ, sãnd n kõ toko, fomilɛɛr fʋlẽ."
+      },
+      "di": {
+        "question": "Mobile money konti ye cogo di ?",
+        "reponse": "Tɛlɛfɔni sosiyɛti la, ka sɛbɛnw sɔrɔ, ka fɔrmilɛri fɛn."
+      }
+    }
+  }
+]
